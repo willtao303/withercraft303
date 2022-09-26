@@ -10,7 +10,7 @@ Languages:
 
 Current projects:
 1. flock behaviour simulation
-2. 
+2. figuring out how efficiently pathfind
 
 ---
 
