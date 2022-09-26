@@ -9,7 +9,7 @@ Languages:
 
 
 Current projects:
-1. flock simulation
+1. flock behaviour simulation
 2. 
 
 ---
