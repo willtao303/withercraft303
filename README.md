@@ -5,6 +5,7 @@ I do coding... sort of... 😔
 Languages: 
 - `Python !!`
 - `Java -_-`
+- `c# :o`
 - `c++ (sort of (not really (;v;)))`
 
 
