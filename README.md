@@ -11,8 +11,9 @@ Languages:
 
 Current projects:
 1. flock behaviour simulation
-2. figuring out how efficiently pathfind
-
+2. ~~figuring out how efficiently pathfind~~ figured out A* :D
+3. fast fov algorithms for non square walls
+4. space and orbit physics simulator
 ---
 
 
