@@ -1,23 +1,39 @@
 ### Error 303 :( 
 
-I do coding... sort of... 😔
+I do coding (not well though) 😔
 
 Languages: 
-- `Python !!`
-- `Java -_-`
-- `c# :o`
-- `c++ (sort of (not really (;v;)))`
+- 🎮 `C#`
+- ☕ `Java`
+- 🐍 `Python`
+- 🤓 `C++`
+- 📲 `Kotlin, Flutter`
+- 🌐 `Fullstack`
 
 
 Current projects:
-1. flock behaviour simulation
-2. ~~figuring out how efficiently pathfind~~ figured out A* :D
-3. fast fov algorithms for non square walls
-4. space and orbit physics simulator
----
+1. Make personal website
+2. Boid movement
+3. Cloth physics + Water physics
+4. Unspaghettify old code
+5. Using perlin to generate one dimensional terrain
+6. Natural looking cave system generation
+7. Rigging sprites w/out engines, just game frameworks
+8. Figuring out ANN backprop
+9. Get better at UI/UX
+10. Future Goal: Develop my own ANN
+
+Completed - newest to oldest <br>
+- ~~RPG room procedual generation~~
+- ~~Space and orbit physics~~
+- ~~Learn Kotlin and flutter~~
+- ~~Perlin depth maps~~
+- ~~Raycast FOV~~
+- ~~A-star and other pathfinding algo's~~
+- ~~State Machines~~
 
 
-
+<sub><sup>2023/10/08</sup></sub>
 <!--
 **withercraft303/withercraft303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
