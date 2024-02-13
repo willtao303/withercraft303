@@ -1,6 +1,6 @@
 ### Error 303 :( 
 
-I do coding (not well though) 😔
+I do coding
 
 Languages: 
 - 🎮 `C#`
@@ -16,12 +16,11 @@ Current projects:
 2. Boid movement
 3. Cloth physics + Water physics
 4. Unspaghettify old code
-5. Using perlin to generate one dimensional terrain
-6. Natural looking cave system generation
-7. Rigging sprites w/out engines, just game frameworks
-8. Figuring out ANN backprop
-9. Get better at UI/UX
-10. Future Goal: Develop my own ANN
+5. Natural looking cave system generation
+6. Rigging sprites w/out engines, just game frameworks
+7. Figuring out ANN backprop
+8. Get better at UI/UX
+9. Future Goal: Develop my own ANN
 
 Completed - newest to oldest <br>
 - ~~RPG room procedual generation~~
@@ -30,6 +29,7 @@ Completed - newest to oldest <br>
 - ~~Perlin depth maps~~
 - ~~Raycast FOV~~
 - ~~A-star and other pathfinding algo's~~
+- ~~Using perlin to generate one dimensional terrain~~
 - ~~State Machines~~
 
 
